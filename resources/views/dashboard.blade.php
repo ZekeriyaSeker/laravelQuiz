@@ -4,6 +4,6 @@
     </x-slot>
 
     <div class="alert alert-warning">
-        TESTTas
+        TESTTasa
     </div>
 </x-app-layout>
